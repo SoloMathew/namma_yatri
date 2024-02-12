@@ -22,7 +22,9 @@ This analysis provided valuable insights into potential areas for optimization, 
 ### Data Sources
 ---
 
-add that here
+The data is available in 5 xlsx files:
+
+trip.xlsx, trip_details.xlsx, duration.xlsx, loc.xlsx, payments.xlsx
 
 ### Tools
 ---
