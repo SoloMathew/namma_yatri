@@ -1,21 +1,35 @@
 # Namma Yatri Trip Data Analysis
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results](#results)
+- [Reference](#reference)
+
 ### Project Overview
+---
 
 Namma Yatri is a Direct-to-Driver open mobility platform, developed by Juspay, powering the next-generation of mobility applications in India. This project involved exploring Namma Yatri trip data using SQL to gain insights into rider behavior and operational patterns. Leveraging basic queries, I analyzed factors like location, payment methods, and time of the day to identify peak usage times, popular routes, and preferred payment options.
 
 This analysis provided valuable insights into potential areas for optimization, improved understanding of ridership trends, and enhanced knowledge of essential SQL data querying techniques.
 
 ### Data Sources
+---
 
 add that here
 
 ### Tools
+---
 
 - MS SQL
 - Tableau
 
 ### Exploratory Data Analysis
+---
 
 #### Trip Characteristics:
  - Queries: Employed queries to determine the duration with the highest trip volume, identify most frequent origin-destination pairs, and uncover the most popular payment method for high-value trips.
@@ -60,6 +74,7 @@ ON t.faremethod = p.id
 WHERE fare_rank = 1;
 ```
 ## Results
+---
 
 This analysis aimed to gain insights into Namma Yatri's ridership behavior, operational efficiency, and identify potential areas for improvement. Here are key findings from the provided queries:
 
@@ -95,4 +110,3 @@ This analysis aimed to gain insights into Namma Yatri's ridership behavior, oper
 ---
 
 - [Kaggle](https://www.kaggle.com/datasets/vikramamin/namma-yatri-tableau)
-
