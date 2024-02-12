@@ -17,7 +17,7 @@ Namma Yatri is a Direct-to-Driver open mobility platform, developed by Juspay, p
 
 This analysis provided valuable insights into potential areas for optimization, improved understanding of ridership trends, and enhanced knowledge of essential SQL data querying techniques.
 
-[!image](https://github.com/SoloMathew/namma_yatri/blob/main/ny_snip.png)
+![image](https://github.com/SoloMathew/namma_yatri/blob/main/ny_snip.png)
 
 ### Data Sources
 ---
@@ -41,7 +41,7 @@ add that here
  - Queries: Implemented queries to calculate the total number of completed trips and driver-initiated cancellations.
  - Findings: Provided an overview of operational performance and areas for potential improvement in driver support or cancellation prevention strategies.
 
-[!image](https://github.com/SoloMathew/namma_yatri/blob/main/ny_snip.png)
+![image](https://github.com/SoloMathew/namma_yatri/blob/main/ny_snip.png)
 
 ### Data Analysis
 ---
