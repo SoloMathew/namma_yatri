@@ -41,7 +41,7 @@ add that here
  - Queries: Implemented queries to calculate the total number of completed trips and driver-initiated cancellations.
  - Findings: Provided an overview of operational performance and areas for potential improvement in driver support or cancellation prevention strategies.
 
-![image](https://github.com/SoloMathew/namma_yatri/blob/main/ny_snip.png)
+![image](https://github.com/SoloMathew/namma_yatri/blob/main/dashboard_snip.png)
 
 ### Data Analysis
 ---
