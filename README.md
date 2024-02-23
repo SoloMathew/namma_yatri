@@ -36,7 +36,7 @@ trip.xlsx, trip_details.xlsx, duration.xlsx, loc.xlsx, payments.xlsx
 ---
 
 #### Trip Characteristics:
- - Queries: Employed queries to determine the duration with the highest trip volume, identify most frequent origin-destination pairs, and uncover the most popular payment method for high-value trips.
+ - Queries: Employed queries to determine the duration with the highest trip volume, identify the most frequent origin-destination pairs, and uncover the most popular payment method for high-value trips.
  - Findings: Revealed valuable insights into rider preferences, peak travel times, and popular routes, potentially informing service optimization efforts.
 
 #### Trip Completion and Cancellations:
